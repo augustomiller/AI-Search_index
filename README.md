@@ -124,7 +124,7 @@ Conclua os detalhes do armazenamento de dados com os seguintes valores:
 
 ![chicago](https://github.com/augustomiller/AI-Search_index/assets/990877/228da15f-350b-408e-ad80-b92c4fca60d8)
 
-## Qual é a estratégia?
+## Qual foi a estratégia?
 
   - Criar um serviço de Inteligencia Artificial
   - Fazer o link com a automação do IA Search
